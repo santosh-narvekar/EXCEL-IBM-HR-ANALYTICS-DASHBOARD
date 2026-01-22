@@ -1,5 +1,6 @@
 # EXCEL IBM HR ANALYTICS
-This interactive ibm hr analytics dashboard explores the key factors behind employee attritions and explains the causes behind it.
+This interactive ibm hr analytics dashboard explores the key factors behind employee attritions and tries to explore the
+dfferent reasons behind it while story telling with data.
 
 # DATASET 
 **LINK:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
